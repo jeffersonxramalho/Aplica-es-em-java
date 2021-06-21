@@ -1,4 +1,4 @@
-echo "# Aplica-es-em-java" >> README.md
+echo "# Aplica-es-em-java" >> Trabalhos do curso de JavaEE.md
 git init
 git add README.md
 git commit -m "first commit"
