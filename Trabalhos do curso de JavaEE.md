@@ -1,3 +1,5 @@
-# Aplica-es-em-java
+# Meu-repositorio-JavaEE--My-repository-JavaEE
 
-Trabalhos do curso de JavaEE
+Estudando JavaEE
+
+Studying JavaEE
